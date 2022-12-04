@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(173, 183, 230);
+  }
+  ul.index{
+    display: flex;  
+    padding:20;
+    list-style-type: none
+  }
+  a {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */
+}
